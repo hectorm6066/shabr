@@ -2,3 +2,9 @@ h1{
     font-size:53px;
     font-family:Lobster;
 }
+h3{
+    font-size:30px;
+}
+#background{
+    background-color:blue;
+}
