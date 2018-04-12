@@ -8,3 +8,6 @@ p{
     font-family:Roboto;
     color:red;
 }
+li{
+    font-weight: bold;
+}
